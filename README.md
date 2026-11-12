@@ -3,7 +3,7 @@ A model that classifies emails as spam or not spam using the Decision Tree algor
 
 Email Classification Using Decision Tree Model
 Machine Learning Project Group 3
----
+
 # Introduction
 The goal of this study is to build a model that classifies emails as spam or not spam using the Decision Tree algorithm.
 
@@ -23,7 +23,7 @@ Given that the dataset contains numerical features representing email content, t
 
 If the tree becomes too complex, it may lead to overfitting. Thus, the model complexity is controlled by limiting the tree depth (pruning) to improve generalization.
 ---
-## Conclusion
+# Conclusion
 
 | Technique | Effect |
 |---|---|
