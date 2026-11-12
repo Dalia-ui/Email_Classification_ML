@@ -13,7 +13,7 @@ With and without normalization
 With and without overfitting control
 With and without dataset balancing
 For each case, performance is measured using the confusion matrix and classification report.
----
+
 # Decision Tree Algorithm
 In this study, the Decision Tree algorithm is used to classify emails as spam or not spam based on their features.
 
@@ -22,7 +22,7 @@ The model works by recursively splitting the dataset using the most informative 
 Given that the dataset contains numerical features representing email content, the Decision Tree can effectively identify patterns that distinguish spam emails from legitimate ones.
 
 If the tree becomes too complex, it may lead to overfitting. Thus, the model complexity is controlled by limiting the tree depth (pruning) to improve generalization.
----
+
 # Conclusion
 
 | Technique | Effect |
@@ -39,7 +39,7 @@ In this project, a Decision Tree classifier was built to detect spam emails usin
 - trained on balanced data with controlled depth 
 - achieved the highest test accuracy and the most balanced performance across both spam and non
 - spam classes. This shows that preprocessing and overfitting control can noticeably improve model performance.
----
+
 # Dataset Details
 The dataset used is the Spambase dataset for email classification.
 
